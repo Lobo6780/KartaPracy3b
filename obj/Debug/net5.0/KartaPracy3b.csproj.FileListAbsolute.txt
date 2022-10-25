@@ -1,0 +1,16 @@
+/home/piotr/Desktop/GitHub/KartaPracy3b/bin/Debug/net5.0/KartaPracy3b
+/home/piotr/Desktop/GitHub/KartaPracy3b/bin/Debug/net5.0/KartaPracy3b.deps.json
+/home/piotr/Desktop/GitHub/KartaPracy3b/bin/Debug/net5.0/KartaPracy3b.runtimeconfig.json
+/home/piotr/Desktop/GitHub/KartaPracy3b/bin/Debug/net5.0/KartaPracy3b.runtimeconfig.dev.json
+/home/piotr/Desktop/GitHub/KartaPracy3b/bin/Debug/net5.0/KartaPracy3b.dll
+/home/piotr/Desktop/GitHub/KartaPracy3b/bin/Debug/net5.0/KartaPracy3b.pdb
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/KartaPracy3b.csproj.AssemblyReference.cache
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/KartaPracy3b.GeneratedMSBuildEditorConfig.editorconfig
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/KartaPracy3b.AssemblyInfoInputs.cache
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/KartaPracy3b.AssemblyInfo.cs
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/KartaPracy3b.csproj.CoreCompileInputs.cache
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/KartaPracy3b.dll
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/refint/KartaPracy3b.dll
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/KartaPracy3b.pdb
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/KartaPracy3b.genruntimeconfig.cache
+/home/piotr/Desktop/GitHub/KartaPracy3b/obj/Debug/net5.0/ref/KartaPracy3b.dll

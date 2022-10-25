@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KartaPracy3b/1.0.0": {
+        "runtime": {
+          "KartaPracy3b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KartaPracy3b/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

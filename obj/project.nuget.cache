@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYTdGKmqCb927Q2H62lUej2ClYojIuOqR/52Ji7Syw4I92XvdLh8WFR3CsLhtnujy0S4dPn854MACr8xlGQr7A==",
+  "success": true,
+  "projectFilePath": "/home/piotr/Desktop/GitHub/KartaPracy3b/KartaPracy3b.csproj",
+  "expectedPackageFiles": [
+    "/home/piotr/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
